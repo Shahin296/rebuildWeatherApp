@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+    background-color: #64eded82;
+}
+.btn-primary{
+    margin: 15px 0;
+}
+h2{
+    margin-bottom: 20px;
+    color: #2d0d52;
+}
+h4{
+    margin-top: 15px;
+}
+
+img{
+   
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+#error{
+    color: crimson;
+}
